@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+img {
+
+    border: 2px solid rgb(247, 247, 207);
+    margin-left: 430px;
+    margin-top: 150px;
+    height: 450px;
+    width: 600px;
+}
+
+.left {
+    height: 40px;
+    width: 40px;
+    padding: 2px 2px;
+    position: absolute;
+    top:50%;
+    left: 305px;
+    border: none;
+    font-size: 25px;
+    border-radius: 50%;
+}
+
+.right {
+    height: 40px;
+    width: 40px;
+    padding: 2px 2px;
+    position: absolute;
+    top: 50%;
+    right: 265px;
+    border: none;
+    font-size: 25px;
+    border-radius: 50%;
+
+}
